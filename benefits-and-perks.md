@@ -74,7 +74,11 @@ Not yet.
 
 ## Bereavement Leave
 
-Not yet.
+Employees are granted time off with pay for a death in their immediate family.
+
+Immediate family is defined as a spouse, child, parent, stepparent, grandparent or a sibling of the employee or the employees spouse. The standard amount of time given to employees for bereavement is three (3) paid days. If special circumstances require additional time, it should be taken as Paid Time Off.
+
+For the death of a friend or relative not covered by this policy, an employee is generally granted up to four (4) paid hours of time away from work for the purpose of attending the funeral.
 
 ## Employee Assistance Program (EAP)
 
