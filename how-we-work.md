@@ -52,6 +52,12 @@ All that being said, you should still ensure that there is ample overlap with th
 
 In certain departments, like Support and Ops, it’s even more important that people are dependently available when they say they will be. That work has a lot of interrupt-based jobs that simply needs to be done right here, right now. So what applies to almost all work for design and programming and QA may well apply a little less frequently there.
 
+## Flexible but regular hours
+
+You can schedule your own working hours but they should be regular because 1) there's ample evidence that routine schedules are good for your health and 2) it makes scheduling easier. Whenever you'd like to work, just let it be known with the folks you work with and stick to it.
+
+For example, Will aims to reserve 8am-12pm US EST for focused individual work, 12-2pm for food and exercise, and 2pm-6pm for meetings and communications.
+
 ## In self-sufficient, independent teams
 
 Organizational theory is thick with descriptions of the trade-offs between functional and project company structures. We seek to be more project than functional. This means a single project team should be able to go from idea to deploy as independently as possible.
