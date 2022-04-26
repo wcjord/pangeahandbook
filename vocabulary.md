@@ -1,6 +1,6 @@
 # Vocabulary
 
-Basecamp has over time developed a vocabulary specific to our work and company.
+Pretty cool words that Basecamp uses and maybe we should too.
 
 ## Chowder
 
@@ -12,7 +12,7 @@ Most problems can be solved in a thousand different ways. One way might take 100
 
 ## PDI
 
-“Please do investigate”. Seen most often on to-do lists at Basecamp to indicate uncertainty. It helps everyone on the project understand that we’re going to look into it but it may or may not be feasible, practical, or possible.
+“Please do investigate”. Seen most often on to-do lists at Pangea Chat to indicate uncertainty. It helps everyone on the project understand that we’re going to look into it but it may or may not be feasible, practical, or possible.
 
 ## Scope Hammering
 
