@@ -2,6 +2,19 @@
 
 Moonlighting means working other professional, paid jobs outside of your work at Pangea Chat. It’s not a black and white topic. There are one-time gigs, other pursuits, or opportunities that help you grow and make life interesting. We want to support that. But we want to make sure professional endeavors outside of Pangea Chat don’t create conflicts of interest or affect your time, dedication, or performance at Pangea Chat. So it’s a delicate balance.
 
+## In general
+
+Here are a few guiding principles about whether something could be a problem:
+
+- Is it competitive?
+- Does it occupy a disproportionate amount of your time?
+- Does it require you to be away during times when you’re needed at work?
+- Is it another paid gig that employs the same skills Pangea Chat is paying you for?
+
+In general, we’d like to be lenient within reason, but we’re going to be strict if we see it impact your time, attention, or performance here at work.
+
+It’s hard to come up with one-size fits all rules. Just let Will know about it beforehand and let's talk about it before you make a commitment.
+
 With that in mind, here are some examples of what we’d consider OK and what we would consider a conflict of interest and not OK:
 
 ## OK
@@ -16,6 +29,8 @@ With that in mind, here are some examples of what we’d consider OK and what we
 
 5. Do volunteer or occasional pro-bono work for a cause you’re actively involved with. A little work here and there is fine, but, for example, becoming an organization’s full-time web designer and being on the hook to work during your standard work day, etc, would not be OK.
 
+6. Language teaching through, or regularly augmented by, Pangea Chat. This work would clearly add value to your time with Pangea Chat and is encouraged! Just keep it within a few hours per week and let Will know about it.
+
 ## Not OK
 
 1. You can’t work full time or part time for another company in our industry. If you’re unclear about what our industry is, and you have a specific situation you’d like to talk about, ping Will.
@@ -27,16 +42,3 @@ With that in mind, here are some examples of what we’d consider OK and what we
 4. Be aggressive in marketing your availability for side work. If something comes to you through a friend or some connection, fine, but aggressively promoting something on the side will ultimately result in a conflict of interest here at work.
 
 5. Take on anything outside of work that’ll pull attention from work. For example, if you wanted to launch an app, but the app requires providing timely customer support to people who use the app, that’s going to eat into your day here at work. That would ultimately be a problem.
-
-## In general
-
-Here are a few guiding principles about whether something could be a problem:
-
-- Is it competitive?
-- Does it occupy a disproportionate amount of your time?
-- Does it require you to be away during times when you’re needed at work?
-- Is it another paid gig that employs the same skills Pangea Chat is paying you for?
-
-In general, we’d like to be lenient within reason, but we’re going to be strict if we see it impact your time, attention, or performance here at work.
-
-It’s hard to come up with one-size fits all rules. Just let Will know about it beforehand and let's talk about it before you make a commitment.
